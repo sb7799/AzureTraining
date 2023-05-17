@@ -1,0 +1,41 @@
+.makeStyles-link-3{
+    margin-left:80px !important;
+}
+
+.homePage {
+    width: 100%;
+    height: calc(100vh - 64px);
+}
+
+.contact {
+    width: 100%;
+    /* height: calc(100vh - 64px); */
+    background-color: #E6E6E6;
+    padding: 10px;
+}
+
+.appointment{
+    margin-left: 20%;
+}
+
+.h3{
+    text-align: center;
+}
+
+.LocationSearch{
+    width: 250px;
+}
+
+.float-left{
+    float:left;
+}
+
+.float-right{
+    float:right;
+}
+
+.search-keyword{
+    height: 39px;
+    margin-left: 5px;
+    width: 45%;
+}
